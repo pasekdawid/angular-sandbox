@@ -4,6 +4,6 @@ Angular sandbox app for testing/learning new stuff. Made with agular2-seed (http
 ### Installation
 ```npm install```
 
-###Running
+### Running
 ```npm start```
 then open browser to http://localhost:3210 If you want to use other port, open package.json file, then change port in --port 3210 script.
